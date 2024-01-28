@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GeographicalQuiz</string>
+    <string name="contin">Продолжить</string>
+    <string name="hello">Приветствую! Начнём викторину?</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="firstQuestion">Как вы оцените этот курс?</string>
+    <string name="back">Вернуться</string>
+    <string name="send">Отправить</string>
+    <string name="toast">Нужно ответить на 3 вопроса</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="AgainButton">Начать заново</string>
+    <string name="Date">Введите дату рождения</string>
+</resources>
